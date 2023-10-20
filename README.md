@@ -1,2 +1,2 @@
-# DS_JoC_Sessions
-All the code and data used during our weekly Data Science Sessions
+# Data Science JoC Sessions
+All the code and data used during the Data Science Sessions
